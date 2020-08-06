@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### Welcome to Neurostat lab
 
-You can use the [editor on GitHub](https://github.com/bhpark0/neurostat.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhpark0/neurostat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Laboratory of Neuroimaging and Statistics for biomedical data science(NeuroSTAT) is the research group at Ajou University School of Medicine leaded by Dr. Bumhee Park. We investigate statistics, network science, and machine learning for diverse neuroimaging and big biomedical data. We also focus on psychiatric extension of common data model which standardizes various clinical data / psychological textural data in psychiatric domain and enable us to integrate the outcomes among multi-sites.<br>
+<br>
+#### Latest News
+* A paper entitled, **"A 12-week multidomain intervention for late-life depression- a community-based randomized controlled trial"**, was published in Journal of Affective Disorders.<br>
+[\[NEWS](http://www.docdocdoc.co.kr/news/articleView.html?idxno=1081002)]
+[\[Article](https://www.sciencedirect.com/science/article/pii/S0165032719315198?casa_token=VhhKM4dgpfcAAAAA:GeQUDJDR59Xw1Qe7jZVLwlyXE14d3q60Wu1xZJOoLPN6djyhVVPbO2RBFPLBeFrHN4UdJDlywKE)]<br>
+* A paper entitled, **"Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study"**, was published in SCIENTIFIC REPORTS.<br>
+[\[NEWS](http://www.mdon.co.kr/news/article.html?no=26578)]
+[\[Article](https://www.nature.com/articles/s41598-020-61609-8)]<br>
