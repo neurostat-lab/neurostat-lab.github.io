@@ -46,7 +46,6 @@ permalink: /research/
 #### <center>Psychiatric/Psychological research with (standardized) Real-World Data</center>
 <img src="/images/topic3.jpg" style="width: 2000px;"/><br>
 ##### Related Articles & Publications
-* 
 
 ##### Grants
 * The Korean Health Industry Development Institute (KHIDI) , funded by the Ministry of Health & Welfare, Republic of Korea (HI19C0094) (2019-2021)
