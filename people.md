@@ -11,7 +11,7 @@ permalink: /people/
  * Professor in charge of biostatistical consulting in Ajou University Hospital <br>
  * [Google scholar](https://scholar.google.com/citations?hl=ko&user=mBLSN20AAAAJ)
  * Email: [bhpark@ajou.ac.kr](bhpark@ajou.ac.kr)<br>
- * Ofiice: +82-031-219-4458<br>
+ * Office: +82-031-219-4458<br>
  <br>
  * Research Keywords 
    * Neuroimaging
