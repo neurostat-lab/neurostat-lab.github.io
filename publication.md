@@ -7,6 +7,8 @@ is_contact: true
 
 <br>
 ## 2020
+* <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, (_Accepted_).
+
 * Song Vogue Ahn, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>†</sup>, <U>Jin Hee Jung</U>, Ji Eun Park, Seung Soo Sheen, Kwang Joo Park, Sung Chul Hwang, Jae Bum Park, Hae-Sim Park, Joo Hun Park. Cancer development in patients with COPD: a retrospective analysis of the National Health Insurance Service-National Sample Cohort in Korea. _BMC pulmonary medicine_,2020,20(1), 1-10.\[[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-020-01194-8)\]
 
 * Hyun Woong Roh, Jung-gu Choi, Na-Rae Kim, Yeong Sim Choe, Jin Wook Choi, Sun-Mi Cho, Sang Won Seo, **Bumhee Park**, Chang Hyung Hong, Dukyong Yoon, Sang Joon Son, Eun Young Kim. Associations of rest-activity patterns with amyloid burden, medial temporal lobe atrophy, and cognitive impairment. _EBioMedicine_,2020, 58, 102881.\[[link](https://www.sciencedirect.com/science/article/pii/S2352396420302565)\]
