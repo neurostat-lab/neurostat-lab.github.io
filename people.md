@@ -20,11 +20,11 @@ permalink: /people/
    * Psychiatric Common Data Model 
 
 
-|### Eunyoung A. Lee |
-|<img src="/images/eunyoung.png" style="width: 200px;" class="img-circle avatar;"/><br> |
-|* PhD student |
-|* Biostatistician |
-|* MS in Biostatistics |
+### Eunyoung A. Lee 
+<img src="/images/eunyoung.png" style="width: 200px;" class="img-circle avatar;"/><br> 
+* PhD student 
+* Biostatistician 
+* MS in Biostatistics 
 
 ### Yong Hyuk Cho
 <img src="/images/yonghyuk.jpg" style="width: 200px;" class="img-circle avatar;"/><br>
