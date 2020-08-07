@@ -82,7 +82,7 @@ is_contact: true
 
 * **Bumhee Park**, Jose A Palomares, Mary A Woo, Daniel W Kang, Paul M Macey, Frisca L Yan-Go, Ronald M Harper, Rajesh Kumar. Aberrant insular functional network integrity in patients with obstructive sleep apnea. _Sleep_, 2016, 39(5), 989-1000. \[[link](https://academic.oup.com/sleep/article/39/5/989/2454068)\]
 
-* **Bumhee Park, Jose A Palomares, Mary A Woo, Daniel W Kang, Paul M Macey, Frisca L Yan‐Go, Ronald M Harper, Rajesh Kumar. Disrupted functional brain network organization in patients with obstructive sleep apnea. _Brain and behavior_, 2016, 6(3), e00441. \[[link](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.441)\]
+* **Bumhee Park**, Jose A Palomares, Mary A Woo, Daniel W Kang, Paul M Macey, Frisca L Yan‐Go, Ronald M Harper, Rajesh Kumar. Disrupted functional brain network organization in patients with obstructive sleep apnea. _Brain and behavior_, 2016, 6(3), e00441. \[[link](https://onlinelibrary.wiley.com/doi/full/10.1002/brb3.441)\]
 
 * **Bumhee Park**, Bhaswati Roy, Mary A Woo, Jose A Palomares, Gregg C Fonarow, Ronald M Harper, Rajesh Kumar. Lateralized Resting-State Functional Brain Network Organization Changes in Heart Failure. _PloS one_, 2016, 11(5) \[[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874547/)\]
 
