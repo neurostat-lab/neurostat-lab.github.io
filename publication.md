@@ -5,7 +5,6 @@ is_contact: true
 
 <center>Lab members are denoted as <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author,  <U>underline</U>: lab members</center>
 
-<br>
 ## 2020
 * <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, (_Accepted_).
 
