@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-<center>Lab members are denoted as <sup>†</sup>: 1st author, <sup>*</sup>: corresponding author,  <U>Underline</U>: lab members</center>
+<center>Lab members are denoted as <sup>†</sup>: 1st author, <sup>*</sup>: corresponding author,  <U>underline</U>: lab members</center>
 
 <br>
 ## 2020
