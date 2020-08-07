@@ -12,7 +12,7 @@ permalink: /teaching/
 ### For undergraduate students (at medical school)
 * Introduction to Biostatistics using R (2018, 2019, 2020)  
 
-### Tutorials (2018 &#126;)
+### Institutional Tutorials (2018 &#126;)
 * Statistics for continuous data (t-test, ANOVA/ANCOVA, correlation/regression analysis, etc) 
 * Statistics for categorical data (chi-square test, mcnemar's test, logistic regression, etc) 
 * Statistics for repeated measurement (rmANOVA, GLMM, GEE, etc) 
