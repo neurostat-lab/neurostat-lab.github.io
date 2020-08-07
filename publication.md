@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-<center><sup>†</sup>:First author, <sup>*</sup>: Corresponding author,  <U>Underline</U>: Lab member</center>
+<center>Lab members are denoted as <sup>†</sup>: 1st author, <sup>*</sup>: corresponding author,  <U>Underline</U>: lab members</center>
 
 <br>
 ## 2020
@@ -15,13 +15,13 @@ is_contact: true
 
 * <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>†</sup>, Woo Young Chung, Park Ji Eun, Sung Chul Hwang, Kwang Joo Park, Seung Soo Sheen, Song Vogue Ahn, Jae Bum Park, Chul Min Ahn, Sang Haak Lee, Jae Yeol Kim, Eun Mi Chun, Young Sik Park, Kwang Ha Yoo, Hyoung Kyu Yoon, Joo Hun Park. Korean Smoking Cessation Study Group. Blood lead levels in relation to smoking and chronic obstructive pulmonary disease (COPD): a study from Korean National Health and Nutrition Examination Survey (KNHANES). _Journal of Thoracic Disease_,2020, 12(6), 3135.\[[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7330752/)\]
 
-* Sang Ryul Lee, Tae Hoon Roh, Dong Hwan Jeong, Namkyu You, Ae Hwa Jang, Mi Ra Seo, Jin Hee Choung, **Bumhee Park**, Se-Hyuk Kim. A Simple and Practical Scoring System for Radiosurgical Treatment in Patients with Brain Metastases. _Stereotactic and Functional Neurosurgery_,2020, 1-8.\[[link](https://www.karger.com/Article/Abstract/507338)\]
+* Sang Ryul Lee, Tae Hoon Roh, Dong Hwan Jeong, Namkyu You, Ae Hwa Jang, Mi Ra Seo, <U>Jin Hee Choung</U>, **Bumhee Park**, Se-Hyuk Kim. A Simple and Practical Scoring System for Radiosurgical Treatment in Patients with Brain Metastases. _Stereotactic and Functional Neurosurgery_,2020, 1-8.\[[link](https://www.karger.com/Article/Abstract/507338)\]
 
 * Sun Ah Park, Jin Myung Jung, Jun Sung Park, Jeong Ho Lee, **Bumhee Park**, Hyung Jun Kim, Jeong-Ho Park, Won Seok Chae, Jee Hyang Jeong, Seong Hye Choi, Je-Hyun Baek.  SWATH-MS analysis of cerebrospinal fluid to generate a robust battery of biomarkers for Alzheimer’s disease. _Scientific Reports_,2020, 10(1), 1-10.\[[link](https://www.nature.com/articles/s41598-020-64461-y)\]
 
 * Choong Kyun Noh, Chang Su Lim, Gil Ho Lee, Myoung Ki Cho, Hyo Won Lee, Jin Roh, Young Bae Kim, <U>Eunyoung Lee</U>, **Bumhee Park**, Hwan Myung Kim, Sung Jae Shin. Su1359 A DIAGNOSTIC METHOD FOR GASTRIC CANCER USING TWO-PHOTON MICROSCOPY WITH ENZYME-SELECTIVE FLUORESCENT PROBES. _Gastroenterology_,2020,158(6), S-564.\[[link](https://www.gastrojournal.org/article/S0016-5085(20)32114-4/abstract)\]
 
-* Se-Jun Park, <U>Eunyoung Lee</U>, Kihwang Lee, **Bumhee Park**, Yoo-Ri Chung. Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study. _Scientific Reports_,2020, 10(1), 1-9.\[[link](https://www.nature.com/articles/s41598-020-61609-8)\]
+* Se-Jun Park, <U>Eunyoung Lee</U>, Kihwang Lee, **Bumhee Park**<sup>*</sup>, Yoo-Ri Chung. Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study. _Scientific Reports_,2020, 10(1), 1-9.\[[link](https://www.nature.com/articles/s41598-020-61609-8)\]
 
 * Ji Ho Choi, Bora Lee, Jae Yong Lee, Chang-Hoon Kim, **Bumhee Park**, Dong Young Kim, Hyun Jun Kim, Do-Yang Park. Relationship between Sleep Duration, Sun Exposure, and Serum 25-Hydroxyvitamin D Status: A Cross-sectional Study. _Scientific Reports_, 2020, 10(1), 1-8.\[[link](https://www.nature.com/articles/s41598-020-61061-8)\]
 
