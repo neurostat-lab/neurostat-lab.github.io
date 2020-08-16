@@ -4,7 +4,7 @@ layout: post
 Laboratory of Neuroimaging and Statistics for biomedical data science (NeuroSTAT) is the research group at Ajou University School of Medicine led by Dr. Bumhee Park. We investigate statistics, network science, and machine learning for diverse neuroimaging and big biomedical data. We also focus on psychiatric extension of common data model which standardizes various clinical data / psychological textural data in psychiatric domain and enable us to integrate the outcomes among multi-sites.<br>
 <br>
 #### Latest News
-* Eunyoung's paper entitled, **"Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study"**, was published in Scientific Reports (Aug 2020). Congrats! Eunyoung <br>
+* Eunyoung's paper entitled, **"Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study"**, was published in Scientific Reports (Aug 2020). Congrats! Eunyoung. <br>
 [\[Article](https://www.nature.com/articles/s41598-020-70935-w)]<br>
 * Eunyoung's paper entitled, **"Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study"**, was published in Scientific Reports. (Mar 2020) <br>
 [\[NEWS](http://www.mdon.co.kr/news/article.html?no=26578)]
