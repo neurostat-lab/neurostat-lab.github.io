@@ -5,7 +5,7 @@ Laboratory of Neuroimaging and Statistics for biomedical data science (NeuroSTAT
 <br>
 #### Latest News
 * Eunyoung's paper entitled, **"Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study"**, was published in Scientific Reports (Aug 2020). Congrats! Eunyoung <br>
-[\[Article](https://www.nature.com/articles/s41598-020-70935-w]<br>
+[\[Article](https://www.nature.com/articles/s41598-020-70935-w)]<br>
 * Eunyoung's paper entitled, **"Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study"**, was published in Scientific Reports. (Mar 2020) <br>
 [\[NEWS](http://www.mdon.co.kr/news/article.html?no=26578)]
 [\[Article](https://www.nature.com/articles/s41598-020-61609-8)]<br>
