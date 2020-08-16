@@ -3,10 +3,10 @@ layout: default
 is_contact: true
 ---
 
-<center>Lab members are denoted as <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author,  <U>underline</U>: lab members</center>
+<center>Lab members (<U>underline</U>) are denoted as <sup>†</sup>: co-first author and <sup>*</sup>: corresponding author </center>
 
 ## 2020
-* <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, (_Accepted_).
+* <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, 2020, 10. \[[link](https://www.nature.com/articles/s41598-020-70935-w)\]
 
 * Song Vogue Ahn, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>†</sup>, <U>Jin Hee Jung</U>, Ji Eun Park, Seung Soo Sheen, Kwang Joo Park, Sung Chul Hwang, Jae Bum Park, Hae-Sim Park, Joo Hun Park. Cancer development in patients with COPD: a retrospective analysis of the National Health Insurance Service-National Sample Cohort in Korea. _BMC pulmonary medicine_,2020,20(1), 1-10.\[[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-020-01194-8)\]
 
