@@ -46,6 +46,8 @@ permalink: /research/
 #### <center>Psychiatric/Psychological research with (standardized) Real-World Data</center>
 <img src="/images/topic3.jpg" style="width: 2000px;"/><br>
 ##### Related Articles & Publications
+* Jae Ho Ha, Eunyoung Lee, Dongyun Lee, Yong Hyuk Cho, Heirim Lee, Bumhee Park, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, _Accepted_. 
+<br>
 
 ##### Grants
 * The Korean Health Industry Development Institute (KHIDI) , funded by the Ministry of Health & Welfare, Republic of Korea (HI19C0094) (2019-2021)
