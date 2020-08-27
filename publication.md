@@ -6,6 +6,8 @@ is_contact: true
 <center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
 
 ## 2020
+* Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son<sup>*</sup>. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, _Accepted_. 
+
 * <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, 2020, 10. \[[link](https://www.nature.com/articles/s41598-020-70935-w)\]
 
 * Song Vogue Ahn, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>†</sup>, <U>Jin Hee Jung</U>, Ji Eun Park, Seung Soo Sheen, Kwang Joo Park, Sung Chul Hwang, Jae Bum Park, Hae-Sim Park, Joo Hun Park. Cancer development in patients with COPD: a retrospective analysis of the National Health Insurance Service-National Sample Cohort in Korea. _BMC pulmonary medicine_,2020,20(1), 1-10.\[[link](https://bmcpulmmed.biomedcentral.com/articles/10.1186/s12890-020-01194-8)\]
