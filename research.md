@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 #### <center>Statistical Modeling of Human Neuroimaging data</center>
-<img src="/images/topic1.jpg" style="width: 2000px;"/><br>
+<img src="/images/topic1.jpg" style="width: 1000px;"/><br>
 ##### Related Articles & Publications
 * Sang Joon Son, Bumhee Park, Jin Wook Choi, Hyun Woong Roh, Na-Rae Kim, Jae Eun Sin, Haena Kim, Hyun Kook Lim, Chang Hyung Hong (2019). Psychological Resilience Enhances the Orbitofrontal Network in the Elderly With Mild Cognitive Impairment. Frontiers in Psychiatry, 10, 615.
 <br>
@@ -20,7 +20,7 @@ permalink: /research/
 ---
 
 #### <center>Network Modeling of Psychiatry, Psychological and Biomedical data</center>
-<img src="/images/topic2.jpg" style="width: 2000px;"/><br>
+<img src="/images/topic2.jpg" style="width: 1000px;"/><br>
 ##### Related Articles & Publications
 * Min Ho An, Soon Sang Park, Seng Chan You, Rae Woong Park, Bumhee Park, Hyung Kyoo Woo, Han Ki Kim, Sang Joon Son (2019). Depressive symptom network associated with comorbid anxiety in late-life depression. Frontiers in psychiatry, 10, 856.
 <br>
@@ -44,7 +44,7 @@ permalink: /research/
 ---
 
 #### <center>Psychiatric/Psychological research with (standardized) Real-World Data</center>
-<img src="/images/topic3.jpg" style="width: 2000px;"/><br>
+<img src="/images/topic3.jpg" style="width: 1000px;"/><br>
 ##### Related Articles & Publications
 * Jae Ho Ha, Eunyoung Lee, Dongyun Lee, Yong Hyuk Cho, Heirim Lee, Bumhee Park, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, _Accepted_. 
 <br>
