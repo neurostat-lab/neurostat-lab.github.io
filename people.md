@@ -29,7 +29,7 @@ permalink: /people/
 ### Yong Hyuk Cho
 <img src="/images/yonghyuk.jpg" style="width: 200px;" class="img-circle avatar;"/><br>
 * PhD student
-* Psychiatrist
+* Psychiatrist 
 * Co-advised by [Dr. Sang-Joon Son](https://successfulaging.github.io/)
 
 ### Heirim Lee
@@ -38,7 +38,7 @@ permalink: /people/
 
 ### Ji Hyun Park
 <img src="/images/jihyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher, MS in Mathmatics
+* Researcher, MS in Mathematics
 
 ### Han-Bit Shin
 <img src="/images/hanbit.png" style="width: 200px;" class="img-circle avatar;"/><br>
