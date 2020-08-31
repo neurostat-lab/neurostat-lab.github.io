@@ -27,7 +27,7 @@ permalink: /people/
 * MS in Biostatistics 
 
 ### Yong Hyuk Cho
-<img src="/images/yonghyuk.jpg" style="width: 200px;" class="img-circle avatar;"/><br>
+<img src="/images/yonghyuk.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * PhD student
 * Psychiatrist 
 * Co-advised by [Dr. Sang-Joon Son](https://successfulaging.github.io/)
