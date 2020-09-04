@@ -52,6 +52,14 @@ permalink: /people/
 <img src="/images/jisu.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, MS in Statistics
 
+### Seung Yun Choi
+<img src="/images/seungyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
+* Researcher, MA in Psychology
+
+### Seulgi Lee
+<img src="/images/seulgi.png" style="width: 200px;" class="img-circle avatar;"/><br>
+* Researcher, MA in Psychology
+
 ### Kyung Hee Hong
 <img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
 * Staff
