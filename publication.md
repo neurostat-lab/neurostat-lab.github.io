@@ -8,9 +8,11 @@ is_contact: true
 ## 2020
 * Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. 
 
-* Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151\]
+* Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. 
+\[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151\]
 
-* Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. \[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259\]
+* Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. 
+\[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259\]
 
 * Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son<sup>*</sup>. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, Aug; 59(3):243-249. \[[link](https://jknpa.org/DOIx.php?id=10.4306/jknpa.2020.59.3.243\]
 
