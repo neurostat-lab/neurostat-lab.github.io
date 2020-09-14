@@ -6,7 +6,7 @@ is_contact: true
 <center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
 
 ## 2020
-* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151\]
+* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. 
 
 * Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151\]
 
