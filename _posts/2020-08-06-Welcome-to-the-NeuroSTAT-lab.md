@@ -9,7 +9,3 @@ Laboratory of Neuroimaging and Statistics for biomedical data science (NeuroSTAT
 Title: **"Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model"** (Jae Ho Ha & Eunyoung Lee et al.). Thanks, collegues!  <br>
 * Lee et al. **"Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study"** was published in Scientific Reports (August 2020). Congrats! <br>
 [\[Article](https://www.nature.com/articles/s41598-020-70935-w)]<br>
-* Park and Lee et al. **"Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study"** was published in Scientific Reports (March 2020). Congrats! <br>
-[\[NEWS](http://www.mdon.co.kr/news/article.html?no=26578)]
-[\[Article](https://www.nature.com/articles/s41598-020-61609-8)]<br>
-
