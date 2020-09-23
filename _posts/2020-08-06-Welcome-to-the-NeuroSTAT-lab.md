@@ -5,7 +5,7 @@ Laboratory of Neuroimaging and Statistics for biomedical data science (NeuroSTAT
 <br>
 #### Latest News
 
-* Dongyun Lee et al. **"Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea"** was accepted in _American Journal of Geriatric Psychiatry_, Congrats! <br>
+* Lee et al. **"Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea"** was accepted in _American Journal of Geriatric Psychiatry_, Congrats! <br>
 
 * Our group has newly pioneered a field of psychiatric CDM and several related studies are in progress. And a seminal paper on psychiatric CDM was finally accepted in _Journal of Korean Neuropsychiatric Association_. 
 Title: **"Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model"** (Jae Ho Ha & Eunyoung Lee et al.). Thanks, collegues!  <br>
