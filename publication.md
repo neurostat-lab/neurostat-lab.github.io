@@ -6,6 +6,9 @@ is_contact: true
 <center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
 
 ## 2020
+* Seong-Joon Lee, Mun Hee Choi, Sung Eun Lee, <U>Ji Hyun Park</U>, **Bumhee Park**, Jin Soo Lee, Ji Man Hong. Optic nerve sheath diameter change in
+prediction of malignant cerebral edema in ischemic stroke: an observational study. _BMC Neurology_, 2020, Sep; 20(354). \[[link](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-020-01931-w)\]
+
 * Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son<sup>*</sup>. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, _Accepted_.
 
 * Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. 
