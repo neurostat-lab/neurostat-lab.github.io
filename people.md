@@ -54,11 +54,11 @@ permalink: /people/
 
 ### Seung Yun Choi
 <img src="/images/seungyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher, MA in Psychology
+* Researcher, MA in Clinical Psychology
 
 ### Seulgi Lee
 <img src="/images/seulgi.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher, MA in Psychology
+* Researcher, MA in Clinical Psychology
 
 ### Kyung Hee Hong
 <img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
