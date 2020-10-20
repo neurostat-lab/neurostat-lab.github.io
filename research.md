@@ -42,7 +42,7 @@ permalink: /research/
 <br>
 
 * The mid-career faculty research fund of Ajou University School of Medicine (2020.10 - 2021.9)
-<br>
+
 ---
 
 #### <center>Psychiatric/Psychological research with (standardized) Real-World Data</center>
