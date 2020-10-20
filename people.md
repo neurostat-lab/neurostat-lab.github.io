@@ -14,9 +14,9 @@ permalink: /people/
  * Office: +82-31-219-4458<br>
  <br>
  * Research Keywords 
-   * Neuroimaging (for Modeling human behaviors/mind and disease states)
+   * Neuroimaging (for modeling human behaviors/mind and disease states)
    * Big Biomedical Data Science
-   * Machine Learning / Biostatistics
+   * Machine Learning / Biostatistics / Network Science
    * Psychiatric Common Data Model 
 
 
