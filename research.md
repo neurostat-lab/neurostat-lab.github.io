@@ -17,8 +17,9 @@ permalink: /research/
 ##### Grants
 * The National Research Foundation of Korea (NRF), funded by the Korean government (Ministry of Science and ICT) (NRF-2019R1A5A2026045) (2019.6-2026.2)
 <br>
-* The mid-career faculty research fund of Ajou University School of Medicine (2020.10 - 2021.9)
 
+* The mid-career faculty research fund of Ajou University School of Medicine (2020.10 - 2021.9)
+<br>
 ---
 
 #### <center>Network Modeling of Psychiatry, Psychological and Biomedical data</center>
