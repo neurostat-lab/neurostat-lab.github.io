@@ -9,8 +9,8 @@ permalink: /teaching/
 * Statistical methodology and lab for clinical data (2018, 2019)
 * Introduction to neuroimaging and analyzing tools (2019, 2020)
 
-### For undergraduate students (at medical school)
-* Introduction to Biostatistics using R (2018, 2019, 2020)  
+### For undergraduate students (at Ajou Medical School)
+* Introduction to Biostatistics using R (2018, 2019, 2020) 
 
 ### Institutional Tutorials (2018 &#126;)
 * Statistics for continuous data (t-test, ANOVA/ANCOVA, correlation/regression analysis, etc) 
