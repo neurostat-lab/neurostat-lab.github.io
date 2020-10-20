@@ -50,7 +50,7 @@ permalink: /research/
 * Jae Ho Ha, Eunyoung Lee, Dongyun Lee, Yong Hyuk Cho, Heirim Lee, Bumhee Park, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, _Accepted_. 
 <br>
 
-* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, Bumhee Park, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, _Accepted_.
+* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, Eunyoung Lee, Bumhee Park, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, _Accepted_.
 <br>
 
 ##### Grants
