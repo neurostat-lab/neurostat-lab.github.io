@@ -16,7 +16,7 @@ permalink: /research/
 
 ##### Grants
 * The National Research Foundation of Korea (NRF), funded by the Korean government (Ministry of Science and ICT) (NRF-2019R1A5A2026045) (2019.6-2026.2)
-<br>
+
 ---
 
 #### <center>Network Modeling of Psychiatry, Psychological and Biomedical data</center>
