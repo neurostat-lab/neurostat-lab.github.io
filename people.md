@@ -66,16 +66,16 @@ permalink: /people/
 
 ### Dissertation Supervison/Committee
 * Junghyun Byun (PhD 2020, Ajou University) - Committee
-- Title: Development of standardized stepwise evaluation and integrated management for clinical big data improvement
+  - Title: Development of standardized stepwise evaluation and integrated management for clinical big data improvement
 
 * Junho Son (MS 2020, Yonsei University) - Committee
-- Title: 휴지기 뇌자도영상을 이용한 상태기반 뇌 유효연결망 추정
+  - Title: 휴지기 뇌자도영상을 이용한 상태기반 뇌 유효연결망 추정
 
 * Jung-gu Choi (MS 2020, Ajou University) - Committee
-- Title: 가속도계 기반 활동량 데이터 내 결측값 대체를 위한 딥러닝 모델 개발
+  - Title: 가속도계 기반 활동량 데이터 내 결측값 대체를 위한 딥러닝 모델 개발
 
 * Doukyoung Chon (PhD 2019; Ajou Unverisity) - Committee
-- Title: Association of vascular risk and fraily with cognitive function in older adults: Interaction effect of social contact
+  - Title: Association of vascular risk and fraily with cognitive function in older adults: Interaction effect of social contact
 
 ### Alumni
 * Kyoungsuk Park (Postdoc)
