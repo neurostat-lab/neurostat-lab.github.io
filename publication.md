@@ -6,18 +6,22 @@ is_contact: true
 <center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
 
 ## 2020
+* Jaehyeong Cho, Seng Chan You, Seongwon Lee, DongSu Park, **Bumhee Park**, George Hripcsak, Rae Woong Park. Application of Epidemiological Geographic Information System: An Open-Source Spatial Analysis Tool Based on the OMOP Common Data Model. _International Journal of Environmental Research and Public Health_, 2020, Oct; 17(7824). \[[link](https://www.mdpi.com/1660-4601/17/21/7824)\]
+
+* Choong-Kyun Noh, Gil Ho Lee, Jin Woong Park, Jin Roh, Jae Ho Han, <U>Eunyoung Lee</U>, **Bumhee Park**, Sun Gyo Lim, Sung Jae Shin, Jae Youn Cheong, Jin Hong Kim & Kee Myung Lee. Diagnostic accuracy of “sweeping” method compared to conventional sampling in rapid urease test for Helicobacter pylori detection in atrophic mucosa. _Scientific Reports_, 2020, Oct; 10(18483). \[[link](https://www.nature.com/articles/s41598-020-75528-1)\]
+
 * Seong-Joon Lee, Mun Hee Choi, Sung Eun Lee, <U>Ji Hyun Park</U>, **Bumhee Park**, Jin Soo Lee, Ji Man Hong. Optic nerve sheath diameter change in
 prediction of malignant cerebral edema in ischemic stroke: an observational study. _BMC Neurology_, 2020, Sep; 20(354). \[[link](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-020-01931-w)\]
 
-* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son<sup>*</sup>. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, _Accepted_.
+* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son<sup>*</sup>. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, _Accepted_. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
 
-* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. 
+* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]   
 
 * Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151)\]
 
 * Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. \[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259)\]
 
-* Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son<sup>*</sup>. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, Aug; 59(3):243-249. \[[link](https://jknpa.org/DOIx.php?id=10.4306/jknpa.2020.59.3.243)\]
+* Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, Aug; 59(3):243-249. \[[link](https://jknpa.org/DOIx.php?id=10.4306/jknpa.2020.59.3.243)\]
 
 * <U>Eunyoung Lee</U><sup>†</sup>, Minjeong Lee, **Bumhee Park**<sup>*</sup>, Inwhee Park. Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study. _Scientific Reports_, 2020, 10. \[[link](https://www.nature.com/articles/s41598-020-70935-w)\]
 
@@ -39,7 +43,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Ji Ho Choi, Bora Lee, Jae Yong Lee, Chang-Hoon Kim, **Bumhee Park**, Dong Young Kim, Hyun Jun Kim, Do-Yang Park. Relationship between Sleep Duration, Sun Exposure, and Serum 25-Hydroxyvitamin D Status: A Cross-sectional Study. _Scientific Reports_, 2020, 10(1), 1-8.\[[link](https://www.nature.com/articles/s41598-020-61061-8)\]
 
-* Dajung Sung<sup>†</sup>, **Bumhee Park**<sup>†</sup>, Shin-Young Kim, Bung-Nyun Kim, Subin Park, Kyu-In Jung, Jungjin Kim, Min-Hyeon Park. Structural Alterations in Large-scale Brain Networks and Their Relationship with Sleep Disturbances in the Adolescent Population. _Scientific Reports_, 2020, 10(1), 1-9.\[[link](https://www.nature.com/articles/s41598-020-60692-1)\]
+* Dajung Sung, **Bumhee Park**<sup>†</sup>, Shin-Young Kim, Bung-Nyun Kim, Subin Park, Kyu-In Jung, Jungjin Kim, Min-Hyeon Park. Structural Alterations in Large-scale Brain Networks and Their Relationship with Sleep Disturbances in the Adolescent Population. _Scientific Reports_, 2020, 10(1), 1-9.\[[link](https://www.nature.com/articles/s41598-020-60692-1)\]
 
 * Seong-Joon Lee, Ji Man Hong, Jin Wook Choi, <U>Ji Hyun Park</U>, **Bumhee Park**, Dong-Hun Kang, Yong-Won Kim, Yong-Sun Kim, Jeong-Ho Hong, Joonsang Yoo, Chang-Hyun Kim, Sung-Il Sohn, Yang-Ha Hwang, Jin Soo Lee. Predicting Endovascular Treatment Outcomes in Acute Vertebrobasilar Artery Occlusion: A Model to Aid Patient Selection from the ASIAN KR Registry. _Radiology_, 2020, 191227. \[[link](https://pubs.rsna.org/doi/abs/10.1148/radiol.2020191227)\]
 
@@ -61,7 +65,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Yoon-Jeong Oh, **Bumhee Park**, Ki Won Moon. Effect of drug adherence on treatment outcome in Rheumatoid Arthritis. _Journal of Rheumatic Diseases_, 2019, 26(4), 264-272. \[[link](https://synapse.koreamed.org/DOIx.php?id=10.4078/jrd.2019.26.4.264)\]
 
-* Sang Joon Son<sup>†</sup>, **Bumhee Park**<sup>†</sup>, Jin Wook Choi, Hyun Woong Rho, Na-Rae Kim, <U>Jae Eun Sin</U>, Haena Kim, Hyun Kook Lim, Chang Hyung Hong. Psychological Resilience Enhances the Orbitofrontal Network in the Elderly With Mild Cognitive Impairment. _Frontiers in Psychiatry_, 2019, 10, 615. \[[link](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00615/full)\]
+* Sang Joon Son, **Bumhee Park**<sup>†</sup>, Jin Wook Choi, Hyun Woong Rho, Na-Rae Kim, <U>Jae Eun Sin</U>, Haena Kim, Hyun Kook Lim, Chang Hyung Hong. Psychological Resilience Enhances the Orbitofrontal Network in the Elderly With Mild Cognitive Impairment. _Frontiers in Psychiatry_, 2019, 10, 615. \[[link](https://www.frontiersin.org/articles/10.3389/fpsyt.2019.00615/full)\]
 
 * Do Jung Kim, Sak Lee, Hyun-Chel Joo, <U>Heirim Lee</U>, **Bumhee Park**, Young-Nam Youn, Kyung-Jong Yoo, Seung Hyun Lee. Effect of Pulmonary Hypertension on Clinical Outcomes in Patients with Rheumatic Mitral Stenosis. _The Annals of Thoracic Surgery_, 2019, 109(2), 496-503. \[[link](https://www.sciencedirect.com/science/article/pii/S0003497519310434)\]
 
