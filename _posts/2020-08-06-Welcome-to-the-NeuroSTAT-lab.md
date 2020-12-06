@@ -12,4 +12,4 @@ Laboratory of Neuroimaging and Statistics for biomedical data science (NeuroSTAT
 
 * Lee et al. **"Risk of fracture according to glucocorticoid use after renal biopsy: a nationwide population-based study"** was published in Scientific Reports (August 2020). Congrats! <br>
 [\[Article](https://www.nature.com/articles/s41598-020-70935-w)]
-<br>
+
