@@ -43,8 +43,6 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Sun Ah Park, Jin Myung Jung, Jun Sung Park, Jeong Ho Lee, **Bumhee Park**, Hyung Jun Kim, Jeong-Ho Park, Won Seok Chae, Jee Hyang Jeong, Seong Hye Choi, Je-Hyun Baek.  SWATH-MS analysis of cerebrospinal fluid to generate a robust battery of biomarkers for Alzheimer’s disease. _Scientific Reports_,2020, 10(1), 1-10.\[[link](https://www.nature.com/articles/s41598-020-64461-y)\]
 
-* Choong Kyun Noh, Chang Su Lim, Gil Ho Lee, Myoung Ki Cho, Hyo Won Lee, Jin Roh, Young Bae Kim, <U>Eunyoung Lee</U>, **Bumhee Park**, Hwan Myung Kim, Sung Jae Shin. Su1359 A DIAGNOSTIC METHOD FOR GASTRIC CANCER USING TWO-PHOTON MICROSCOPY WITH ENZYME-SELECTIVE FLUORESCENT PROBES. _Gastroenterology_,2020,158(6), S-564.\[[link](https://www.gastrojournal.org/article/S0016-5085(20)32114-4/abstract)\]
-
 * Se-Jun Park, <U>Eunyoung Lee</U>, Kihwang Lee, **Bumhee Park**<sup>*</sup>, Yoo-Ri Chung. Efficacy and safety of non-vitamin K-antagonist oral anticoagulants for retinal vascular diseases in patients with atrial fibrillation: Korean cohort study. _Scientific Reports_,2020, 10(1), 1-9.\[[link](https://www.nature.com/articles/s41598-020-61609-8)\]
 
 * Ji Ho Choi, Bora Lee, Jae Yong Lee, Chang-Hoon Kim, **Bumhee Park**, Dong Young Kim, Hyun Jun Kim, Do-Yang Park. Relationship between Sleep Duration, Sun Exposure, and Serum 25-Hydroxyvitamin D Status: A Cross-sectional Study. _Scientific Reports_, 2020, 10(1), 1-8.\[[link](https://www.nature.com/articles/s41598-020-61061-8)\]
