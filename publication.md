@@ -3,14 +3,14 @@ layout: default
 is_contact: true
 ---
 
-<center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
+<center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2020
-* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son<sup>*</sup>. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
+* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
 
 * Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]   
 
-* Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151)\]
+* Young-Hwan Ahn, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151)\]
 
 * Eun Kyung Kim, Dave Singh, Joo Hun Park, Yong Bum Park, <U>Seung-Il Kim</U>, **Bumhee Park**, Jisoo Park, Jung-Hyun Kim, Mi-Ae Kim, Ji-Hyun Lee, Tae-Hyung Kim, Hyoung Kyu Yoon, Yeon-Mok Oh. Impact of Body Mass Index Change on the Prognosis of Chronic Obstructive Pulmonary Disease. _Respiration_, 2020, Dec; 1-11. \[[link](https://www.karger.com/Article/Abstract/511022)\]
 
@@ -53,7 +53,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Seong-Joon Lee, Ji Man Hong, Jin Wook Choi, <U>Ji Hyun Park</U>, **Bumhee Park**, Dong-Hun Kang, Yong-Won Kim, Yong-Sun Kim, Jeong-Ho Hong, Joonsang Yoo, Chang-Hyun Kim, Sung-Il Sohn, Yang-Ha Hwang, Jin Soo Lee. Predicting Endovascular Treatment Outcomes in Acute Vertebrobasilar Artery Occlusion: A Model to Aid Patient Selection from the ASIAN KR Registry. _Radiology_, 2020, 191227. \[[link](https://pubs.rsna.org/doi/abs/10.1148/radiol.2020191227)\]
 
-* Hyun Woong Roh, Chang Hyung Hong, Hyun Kook Lim, Ki Jung Chang, Haena Kim, Na-Rae Kim, Jin Wook Choi, Kang Soo Lee, Sun-Mi Cho, **Bumhee Park**<sup>*</sup>, Sang Joon Son<sup>*</sup>. A 12-week multidomain intervention for late-life depression: a community-based randomized controlled trial. _Journal of Affective Disorders_, 2020,  263, 437-444. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S0165032719315198)\]
+* Hyun Woong Roh, Chang Hyung Hong, Hyun Kook Lim, Ki Jung Chang, Haena Kim, Na-Rae Kim, Jin Wook Choi, Kang Soo Lee, Sun-Mi Cho, **Bumhee Park**<sup>*</sup>, Sang Joon Son. A 12-week multidomain intervention for late-life depression: a community-based randomized controlled trial. _Journal of Affective Disorders_, 2020,  263, 437-444. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S0165032719315198)\]
 
 * Do Jung Kim, Sak Lee, Hyun-Chel Joo, <U>Heirim Lee</U>, **Bumhee Park**, Young-Nam Youn, Kyung-Jong Yoo, Seung Hyun Lee. Effect of Pulmonary Hypertension on Clinical Outcomes in Patients with Rheumatic Mitral Stenosis. _The Annals of Thoracic Surgery_, 2020, 109(2), 496-503. \[[link](https://www.sciencedirect.com/science/article/pii/S0003497519310434)\]
 
