@@ -5,7 +5,7 @@ is_contact: true
 
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
-## 2020 (26 papers)
+## 2020 
 * Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
 
 * Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]   
@@ -60,7 +60,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Jimi Huh, **Bumhee Park**, <U>Heirim Lee</U>, Young-Sil An, Yongsik Jung, Ji Young Kim, Doo Kyoung Kang, Kyung Won Kim, Tae Hee Kim. Prognostic Value of Skeletal Muscle Depletion Measured on Computed Tomography for Overall Survival in Patients with Non-Metastatic Breast Cancer. _Journal of Breast Cancer_, 2020, 23(1), 80-92. \[[link](https://www.ejbc.kr/search.php?where=aview&id=10.4048/jbc.2020.23.e8&code=0096JBC&vmode=FULL)\]
 
 
-## 2019 (9 papers)
+## 2019 
 * Choong-Kyun Noh, In Sung Kim, Gil Ho Lee, Jin Woong Park, <U>Eunyoung Lee</U>, **Bumhee Park**, Hye Jeon Hong, Sun Gyo Lim, Sung Jae Shin, Jin Hong Kim, Kee Myung Lee. Comparison of Effectiveness between Abdominal Vibration Stimulation and Walking Exercise for Bowel Cleansing before Therapeutic Colonoscopy. _Gut and Liver_, 2019 \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009%2Fgnl19999&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Gut_And_Liver_TrendMD_0)\]
 
 * Ho Young Gil, Sook Young Lee, Sang Kee Min, Ji Eun Kim, Hye Seon Lee, Hae Won Jeong, **Bumhee Park**, <U>Jinhee Choung</U>, Jong Bum Choi. The effect of additional transforaminal epidural blocks on percutaneous epidural neuroplasty with a wire-type catheter A retrospective observational study. _Medicine_, 2019, 98(50), e18223 \[[link](https://cdn.journals.lww.com/md-journal/Fulltext/2019/12130/The_effect_of_additional_transforaminal_epidural.26.aspx)\]
@@ -80,7 +80,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Kyu-In Jung, Min-Hyeon Park, **Bumhee Park**<sup>*</sup>, Shin-Young Kim, Yae On Kim, Bung-Nyun Kim, Subin Park, Chan-Hee Song. Cerebellar Gray Matter Volume, Executive Function, and Insomnia: Gender Differences in Adolescents. _Scientific reports_, 2019, 9(1), 1-9. \[[link](https://www.nature.com/articles/s41598-018-37154-w)\]
 
 
-## 2018 (3 papers)
+## 2018 
 * Joong Il Kim, **Bumhee Park**, Tak Youn, Hae-Jeong Park. The Feasibility for Whole-Night Sleep Brain Network Research Using Synchronous EEG-fMRI. _Sleep Medicine and Psychophysiology_, 2018, 25(2), 82. \[[link](https://www.koreamed.org/article/0101SMP/2018.25.2.82)\]
 
 * Hae-Jeong Park, Karl J Friston, Chongwon Pae, **Bumhee Park**, Adeel Razi. Dynamic effective connectivity in resting state fMRI. _Neuroimage_, 2019, 180, 595-608. \[[link](https://www.sciencedirect.com/science/article/pii/S1053811917309606)\]
@@ -88,7 +88,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Kyesam Jung, Karl J Friston, Chongwon Pae, Hanseul H Choi, Sungho Tak, Yoon Kyoung Choi, **Bumhee Park**, Chan-A Park, Chaejoon Cheong, Hae-Jeong Park. Effective connectivity during working memory and resting states: a DCM study. _NeuroImage_, 2019, 169, 485-495. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811917310911)\]
 
 
-## &#126; 2017 (23 papers)
+## &#126; 2017 
 
 * Hojin Cho Cho, Chul Hoon Kim, Elizabeth Quattrocki Knight, Hye Won Oh, **Bumhee Park**, Dong Goo Kim, Hae-Jeong Park. Changes in brain metabolic connectivity underlie autistic-like social deficits in a rat model of autism spectrum disorder. _Scientific reports_, 2017, 7(1), 1-16. \[[link](https://www.nature.com/articles/s41598-017-13642-3)\]
 
