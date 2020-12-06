@@ -34,8 +34,8 @@ permalink: /people/
 ### Yong Hyuk Cho
 <img src="/images/yonghyuk.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * PhD student (융합형 의사과학자 과정)
-* Psychiatrist 
-* Co-advised by [Dr. Sang-Joon Son](https://successfulaging.github.io/)
+* Psychiatrist (정신과학교실)
+* 공동지도 with [Prof. Sang-Joon Son](https://successfulaging.github.io/)
 
 ### Seulgi Lee
 <img src="/images/seulgi.png" style="width: 200px;" class="img-circle avatar;"/><br>
@@ -71,9 +71,9 @@ permalink: /people/
 * Staff
 
 ### Dissertation/thesis Supervison/Committee
-* 박사과정 - 유승찬, 박호준, 조재형, 신서정 
-* 석사과정 - 박유진, 전호규, 박찬민, 한창호, 박남기, 구예령
-* 융합형 의사과학자 과정 - 고승연, 이시호 
+* 박사과정 committee - 유승찬, 박호준, 조재형, 신서정 
+* 석사과정 committee - 박유진, 전호규, 박찬민, 한창호, 박남기, 구예령
+* 융합형 의사과학자 과정 committee - 고승연 (신경과학교실, 공동지도 w/ Prof. Jin Soo Lee), 이시호 (방사선종양학교실, 공동지도 w/ O Prof. Kyu Noh)
 
 * Junghyun Byun (PhD 2020, Ajou University) - Committee
   - Title: Development of standardized stepwise evaluation and integrated management for clinical big data improvement
