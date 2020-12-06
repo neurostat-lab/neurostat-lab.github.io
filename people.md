@@ -13,12 +13,14 @@ permalink: /people/
  * Email: [bhpark@ajou.ac.kr](bhpark@ajou.ac.kr)<br>
  * Office: +82-31-219-4458<br>
  <br>
+ 
  * Research Keywords 
    * Neuroimaging (for modeling human behaviors/mind and disease states)
    * Big Biomedical Data Science
    * Machine Learning / Biostatistics / Network Science
    * Psychiatric Common Data Model 
  <br>
+ 
  * Academic Services
    * IRB committee member (for Biostatistics) at Ajou University Medical Center
    * Statistical Editor/Advisor - Journal of Neurogastroenterology and Motility, Journal of Korean Academy of Child and Adolescent Psychiatry
