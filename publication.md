@@ -132,7 +132,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Jong Doo Lee, Hae-Jeong Park, Eun Sook Park, Maeng-Keun Oh, **Bumhee Park**, Dong-Wook Rha, Sung-Rae Cho, Eung Yeop Kim, Jun Young Park, Chul Hoon Kim, Dong Goo Kim, Chang Il Park. Motor pathway injury in patients with periventricular leucomalacia and spastic diplegia. _Brain_, 2011, 134(4), 1199-1210. \[[link](https://academic.oup.com/brain/article/134/4/1199/341755)\]
 
-* Jung Suk Lee, Hae-Jeong Park, Ji Won Chun, Jeong-Ho Seok, Il-Ho Park, **Bumhee Park**, Jae-Jin Kim. Neuroanatomical correlates of trait anhedonia in patients with schizophrenia: a voxel-based morphometric study. _Neuroscience letters_, 2011, 489(2), 110-114. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S0304394010015302)\]
+2. Jung Suk Lee, Hae-Jeong Park, Ji Won Chun, Jeong-Ho Seok, Il-Ho Park, **Bumhee Park**, Jae-Jin Kim. Neuroanatomical correlates of trait anhedonia in patients with schizophrenia: a voxel-based morphometric study. _Neuroscience letters_, 2011, 489(2), 110-114. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S0304394010015302)\]
 
-* Hae-Jeong Park, Jong Doo Lee, Eung Yeop Kim, **Bumhee Park**, Maeng-Keun Oh, SungChul Lee, Jae-Jin Kim. Morphological alterations in the congenital blind based on the analysis of cortical thickness and surface area. _Neuroimage_, 2009, 47(1), 98-106. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811909003358)\]
+1. Hae-Jeong Park, Jong Doo Lee, Eung Yeop Kim, **Bumhee Park**, Maeng-Keun Oh, SungChul Lee, Jae-Jin Kim. Morphological alterations in the congenital blind based on the analysis of cortical thickness and surface area. _Neuroimage_, 2009, 47(1), 98-106. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811909003358)\]
 
