@@ -6,11 +6,11 @@ is_contact: true
 <center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
 
 ## 2020
-* Eun Kyung Kim, Dave Singh, Joo Hun Park, Yong Bum Park, Seung-Il Kim, Bumhee Park, Jisoo Park, Jung-Hyun Kim, Mi-Ae Kim, Ji-Hyun Lee, Tae-Hyung Kim, Hyoung Kyu Yoon, Yeon-Mok Oh. Impact of Body Mass Index Change on the Prognosis of Chronic Obstructive Pulmonary Disease. _Respiration_, 2020, Dec; 1-11. \[[link](https://www.karger.com/Article/Abstract/511022)\]
+* Eun Kyung Kim, Dave Singh, Joo Hun Park, Yong Bum Park, <U>Seung-Il Kim</U>, **Bumhee Park**, Jisoo Park, Jung-Hyun Kim, Mi-Ae Kim, Ji-Hyun Lee, Tae-Hyung Kim, Hyoung Kyu Yoon, Yeon-Mok Oh. Impact of Body Mass Index Change on the Prognosis of Chronic Obstructive Pulmonary Disease. _Respiration_, 2020, Dec; 1-11. \[[link](https://www.karger.com/Article/Abstract/511022)\]
 
-* Seungyon Koh, Ji Hyun Park, **Bumhee Park**, Mun Hee Choi, Sung Eun Lee, Jin Soo Lee, Ji Man Hong, Seong-Joon Lee. Prediction of Infarct Growth and Neurological Deterioration in Patients with Vertebrobasilar Artery Occlusions. _Journal of Clinical Medicine_, 2020, Nov; 9(11):3759. \[[link](https://www.mdpi.com/2077-0383/9/11/3759)\]
+* Seungyon Koh, <U>Ji Hyun Park</U>, **Bumhee Park**, Mun Hee Choi, Sung Eun Lee, Jin Soo Lee, Ji Man Hong, Seong-Joon Lee. Prediction of Infarct Growth and Neurological Deterioration in Patients with Vertebrobasilar Artery Occlusions. _Journal of Clinical Medicine_, 2020, Nov; 9(11):3759. \[[link](https://www.mdpi.com/2077-0383/9/11/3759)\]
 
-* Min Hur, Jong Yeop Kim, Dae Hee Kim, Ji Young Yoo, Han-Bit Shin, Bumhee Park, Myungseob Kim, Eunjeong Park, Sung Yong Park. Antitussive effect of a magnesium infusion during anesthetic emergence in patients with double-lumen endotracheal tube: a randomized controlled trial. _Journal of Thoracic Disease_, 2020, Oct; 17(7824). \[[link](http://jtd.amegroups.com/article/view/44799/html)\]
+* Min Hur, Jong Yeop Kim, Dae Hee Kim, Ji Young Yoo, <U>Han-Bit Shin</U>, **Bumhee Park**, Myungseob Kim, Eunjeong Park, Sung Yong Park. Antitussive effect of a magnesium infusion during anesthetic emergence in patients with double-lumen endotracheal tube: a randomized controlled trial. _Journal of Thoracic Disease_, 2020, Oct; 17(7824). \[[link](http://jtd.amegroups.com/article/view/44799/html)\]
 
 * Jaehyeong Cho, Seng Chan You, Seongwon Lee, DongSu Park, **Bumhee Park**, George Hripcsak, Rae Woong Park. Application of Epidemiological Geographic Information System: An Open-Source Spatial Analysis Tool Based on the OMOP Common Data Model. _International Journal of Environmental Research and Public Health_, 2020, Oct; 17(7824). \[[link](https://www.mdpi.com/1660-4601/17/21/7824)\]
 
