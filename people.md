@@ -19,7 +19,12 @@ permalink: /people/
    * Machine Learning / Biostatistics / Network Science
    * Psychiatric Common Data Model 
 
-
+ * Academic Services
+   * IRB committee member (for Biostatistics) at Ajou University Medical Center
+   * Statistical Editor/Advisor - Journal of Neurogastroenterology and Motility, Journal of Korean Academy of Child and Adolescent Psychiatry
+   * Editorial Board Member - Frontiers in Psychiatry
+   
+   
 ### Eunyoung A. Lee 
 <img src="/images/eunyoung.png" style="width: 200px;" class="img-circle avatar;"/><br> 
 * PhD student 
