@@ -5,7 +5,7 @@ is_contact: true
 
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
-## 2020
+## 2020 (26 papers)
 * Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
 
 * Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]   
@@ -60,7 +60,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Jimi Huh, **Bumhee Park**, <U>Heirim Lee</U>, Young-Sil An, Yongsik Jung, Ji Young Kim, Doo Kyoung Kang, Kyung Won Kim, Tae Hee Kim. Prognostic Value of Skeletal Muscle Depletion Measured on Computed Tomography for Overall Survival in Patients with Non-Metastatic Breast Cancer. _Journal of Breast Cancer_, 2020, 23(1), 80-92. \[[link](https://www.ejbc.kr/search.php?where=aview&id=10.4048/jbc.2020.23.e8&code=0096JBC&vmode=FULL)\]
 
 
-## 2019
+## 2019 (9 papers)
 * Choong-Kyun Noh, In Sung Kim, Gil Ho Lee, Jin Woong Park, <U>Eunyoung Lee</U>, **Bumhee Park**, Hye Jeon Hong, Sun Gyo Lim, Sung Jae Shin, Jin Hong Kim, Kee Myung Lee. Comparison of Effectiveness between Abdominal Vibration Stimulation and Walking Exercise for Bowel Cleansing before Therapeutic Colonoscopy. _Gut and Liver_, 2019 \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009%2Fgnl19999&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Gut_And_Liver_TrendMD_0)\]
 
 * Ho Young Gil, Sook Young Lee, Sang Kee Min, Ji Eun Kim, Hye Seon Lee, Hae Won Jeong, **Bumhee Park**, <U>Jinhee Choung</U>, Jong Bum Choi. The effect of additional transforaminal epidural blocks on percutaneous epidural neuroplasty with a wire-type catheter A retrospective observational study. _Medicine_, 2019, 98(50), e18223 \[[link](https://cdn.journals.lww.com/md-journal/Fulltext/2019/12130/The_effect_of_additional_transforaminal_epidural.26.aspx)\]
@@ -80,7 +80,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Kyu-In Jung, Min-Hyeon Park, **Bumhee Park**<sup>*</sup>, Shin-Young Kim, Yae On Kim, Bung-Nyun Kim, Subin Park, Chan-Hee Song. Cerebellar Gray Matter Volume, Executive Function, and Insomnia: Gender Differences in Adolescents. _Scientific reports_, 2019, 9(1), 1-9. \[[link](https://www.nature.com/articles/s41598-018-37154-w)\]
 
 
-## 2018
+## 2018 (3 papers)
 * Joong Il Kim, **Bumhee Park**, Tak Youn, Hae-Jeong Park. The Feasibility for Whole-Night Sleep Brain Network Research Using Synchronous EEG-fMRI. _Sleep Medicine and Psychophysiology_, 2018, 25(2), 82. \[[link](https://www.koreamed.org/article/0101SMP/2018.25.2.82)\]
 
 * Hae-Jeong Park, Karl J Friston, Chongwon Pae, **Bumhee Park**, Adeel Razi. Dynamic effective connectivity in resting state fMRI. _Neuroimage_, 2019, 180, 595-608. \[[link](https://www.sciencedirect.com/science/article/pii/S1053811917309606)\]
@@ -88,7 +88,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Kyesam Jung, Karl J Friston, Chongwon Pae, Hanseul H Choi, Sungho Tak, Yoon Kyoung Choi, **Bumhee Park**, Chan-A Park, Chaejoon Cheong, Hae-Jeong Park. Effective connectivity during working memory and resting states: a DCM study. _NeuroImage_, 2019, 169, 485-495. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811917310911)\]
 
 
-## &#126; 2017
+## &#126; 2017 (23 papers)
 
 * Hojin Cho Cho, Chul Hoon Kim, Elizabeth Quattrocki Knight, Hye Won Oh, **Bumhee Park**, Dong Goo Kim, Hae-Jeong Park. Changes in brain metabolic connectivity underlie autistic-like social deficits in a rat model of autism spectrum disorder. _Scientific reports_, 2017, 7(1), 1-16. \[[link](https://www.nature.com/articles/s41598-017-13642-3)\]
 
@@ -130,9 +130,9 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 
 * Hae-Jeong Park, Ji-Won Chun, **Bumhee Park**, Haeil Park, Joong Il Kim, Jong Doo Lee, Jae-Jin Kim. Activation of the occipital cortex and deactivation of the default mode network during working memory in the early blind. _Journal of the International Neuropsychological Society_, 2011,17(3), 407-422. \[[link](https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/activation-of-the-occipital-cortex-and-deactivation-of-the-default-mode-network-during-working-memory-in-the-early-blind/2C27BB882D01F668DCA2D85E1FC3CB6D)\]
 
-3) Jong Doo Lee, Hae-Jeong Park, Eun Sook Park, Maeng-Keun Oh, **Bumhee Park**, Dong-Wook Rha, Sung-Rae Cho, Eung Yeop Kim, Jun Young Park, Chul Hoon Kim, Dong Goo Kim, Chang Il Park. Motor pathway injury in patients with periventricular leucomalacia and spastic diplegia. _Brain_, 2011, 134(4), 1199-1210. \[[link](https://academic.oup.com/brain/article/134/4/1199/341755)\]
+* Jong Doo Lee, Hae-Jeong Park, Eun Sook Park, Maeng-Keun Oh, **Bumhee Park**, Dong-Wook Rha, Sung-Rae Cho, Eung Yeop Kim, Jun Young Park, Chul Hoon Kim, Dong Goo Kim, Chang Il Park. Motor pathway injury in patients with periventricular leucomalacia and spastic diplegia. _Brain_, 2011, 134(4), 1199-1210. \[[link](https://academic.oup.com/brain/article/134/4/1199/341755)\]
 
-2) Jung Suk Lee, Hae-Jeong Park, Ji Won Chun, Jeong-Ho Seok, Il-Ho Park, **Bumhee Park**, Jae-Jin Kim. Neuroanatomical correlates of trait anhedonia in patients with schizophrenia: a voxel-based morphometric study. _Neuroscience letters_, 2011, 489(2), 110-114. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S0304394010015302)\]
+* Jung Suk Lee, Hae-Jeong Park, Ji Won Chun, Jeong-Ho Seok, Il-Ho Park, **Bumhee Park**, Jae-Jin Kim. Neuroanatomical correlates of trait anhedonia in patients with schizophrenia: a voxel-based morphometric study. _Neuroscience letters_, 2011, 489(2), 110-114. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S0304394010015302)\]
 
-1) Hae-Jeong Park, Jong Doo Lee, Eung Yeop Kim, **Bumhee Park**, Maeng-Keun Oh, SungChul Lee, Jae-Jin Kim. Morphological alterations in the congenital blind based on the analysis of cortical thickness and surface area. _Neuroimage_, 2009, 47(1), 98-106. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811909003358)\]
+* Hae-Jeong Park, Jong Doo Lee, Eung Yeop Kim, **Bumhee Park**, Maeng-Keun Oh, SungChul Lee, Jae-Jin Kim. Morphological alterations in the congenital blind based on the analysis of cortical thickness and surface area. _Neuroimage_, 2009, 47(1), 98-106. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811909003358)\]
 
