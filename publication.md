@@ -6,6 +6,12 @@ is_contact: true
 <center> <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author for lab members (<U>underline</U>) only </center>
 
 ## 2020
+* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son<sup>*</sup>. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
+
+* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]   
+
+* Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151)\]
+
 * Eun Kyung Kim, Dave Singh, Joo Hun Park, Yong Bum Park, <U>Seung-Il Kim</U>, **Bumhee Park**, Jisoo Park, Jung-Hyun Kim, Mi-Ae Kim, Ji-Hyun Lee, Tae-Hyung Kim, Hyoung Kyu Yoon, Yeon-Mok Oh. Impact of Body Mass Index Change on the Prognosis of Chronic Obstructive Pulmonary Disease. _Respiration_, 2020, Dec; 1-11. \[[link](https://www.karger.com/Article/Abstract/511022)\]
 
 * Seungyon Koh, <U>Ji Hyun Park</U>, **Bumhee Park**, Mun Hee Choi, Sung Eun Lee, Jin Soo Lee, Ji Man Hong, Seong-Joon Lee. Prediction of Infarct Growth and Neurological Deterioration in Patients with Vertebrobasilar Artery Occlusions. _Journal of Clinical Medicine_, 2020, Nov; 9(11):3759. \[[link](https://www.mdpi.com/2077-0383/9/11/3759)\]
@@ -18,12 +24,6 @@ is_contact: true
 
 * Seong-Joon Lee, Mun Hee Choi, Sung Eun Lee, <U>Ji Hyun Park</U>, **Bumhee Park**, Jin Soo Lee, Ji Man Hong. Optic nerve sheath diameter change in
 prediction of malignant cerebral edema in ischemic stroke: an observational study. _BMC Neurology_, 2020, Sep; 20(354). \[[link](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-020-01931-w)\]
-
-* Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son<sup>*</sup>. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
-
-* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]   
-
-* Young-Hwan Ahn<sup>†</sup>, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, _Accepted_. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151)\]
 
 * Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. \[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259)\]
 
