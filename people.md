@@ -73,7 +73,9 @@ permalink: /people/
 ### Dissertation/thesis Supervison/Committee
 * 박사과정 committee - 유승찬, 박호준, 조재형, 신서정 
 * 석사과정 committee - 박유진, 전호규, 박찬민, 한창호, 박남기, 구예령
-* 융합형 의사과학자 과정 committee - 고승연 (신경과학교실, 공동지도 w/ Prof. Jin Soo Lee), 이시호 (방사선종양학교실, 공동지도 w/ O Prof. Kyu Noh)
+* 융합형 의사과학자 석사과정 committee 
+  - 고승연 (신경과학교실, 공동지도 w/ Prof. Jin Soo Lee)
+  - 이시호 (방사선종양학교실, 공동지도 w/ Prof. O Kyu Noh)
 
 * Junghyun Byun (PhD 2020, Ajou University) - Committee
   - Title: Development of standardized stepwise evaluation and integrated management for clinical big data improvement
