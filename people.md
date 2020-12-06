@@ -18,7 +18,7 @@ permalink: /people/
    * Big Biomedical Data Science
    * Machine Learning / Biostatistics / Network Science
    * Psychiatric Common Data Model 
-
+ <br>
  * Academic Services
    * IRB committee member (for Biostatistics) at Ajou University Medical Center
    * Statistical Editor/Advisor - Journal of Neurogastroenterology and Motility, Journal of Korean Academy of Child and Adolescent Psychiatry
