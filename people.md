@@ -71,23 +71,18 @@ permalink: /people/
 * Staff
 
 ### Dissertation/thesis Supervison/Committee
-* 박사과정 committee - 유승찬, 박호준, 조재형, 신서정 
-* 석사과정 committee - 박유진, 전호규, 박찬민, 한창호, 박남기, 구예령
+* 박사과정 committee 
+  - 2021년: 유승찬, 박호준, 조재형, 신서정 
+  - 2020년: 변정현
+  - 2019년: 전덕영
+  
+* 석사과정 committee
+  - 2021년: 박유진, 전호균, 박찬민, 한창호, 박남기, 구예령
+  - 2020년: 손준호, 최정구
+
 * 융합형 의사과학자 석사과정 committee 
   - 고승연 (신경과학교실, 공동지도 w/ Prof. Jin Soo Lee)
   - 이시호 (방사선종양학교실, 공동지도 w/ Prof. O Kyu Noh)
-
-* Junghyun Byun (PhD 2020, Ajou University) - Committee
-  - Title: Development of standardized stepwise evaluation and integrated management for clinical big data improvement
-
-* Junho Son (MS 2020, Yonsei University) - Committee
-  - Title: 휴지기 뇌자도영상을 이용한 상태기반 뇌 유효연결망 추정
-
-* Jung-gu Choi (MS 2020, Ajou University) - Committee
-  - Title: 가속도계 기반 활동량 데이터 내 결측값 대체를 위한 딥러닝 모델 개발
-
-* Doukyoung Chon (PhD 2019; Ajou Unverisity) - Committee
-  - Title: Association of vascular risk and fraily with cognitive function in older adults: Interaction effect of social contact
 
 ### Alumni
 * Kyoungsuk Park (Postdoc)
