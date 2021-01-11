@@ -70,20 +70,6 @@ permalink: /people/
 <img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
 * Staff
 
-### Dissertation/thesis Supervison/Committee
-* 박사과정 committee 
-  - 2021년: 유승찬, 박호준, 조재형, 신서정 
-  - 2020년: 변정현
-  - 2019년: 전덕영
-  
-* 석사과정 committee
-  - 2021년: 박유진, 전호균, 박찬민, 한창호, 박남기, 구예령
-  - 2020년: 손준호, 최정구
-
-* 융합형 의사과학자 석사과정 committee 
-  - 고승연 (신경과학교실, 공동지도 w/ Prof. Jin Soo Lee)
-  - 이시호 (방사선종양학교실, 공동지도 w/ Prof. O Kyu Noh)
-
 ### Alumni
 * Kyoungsuk Park (Postdoc)
 * Ah Rim Kim (Postdoc)
