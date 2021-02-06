@@ -92,9 +92,9 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 ## 2018 
 * Joong Il Kim, **Bumhee Park**, Tak Youn, Hae-Jeong Park. The Feasibility for Whole-Night Sleep Brain Network Research Using Synchronous EEG-fMRI. _Sleep Medicine and Psychophysiology_, 2018, 25(2), 82. \[[link](https://www.koreamed.org/article/0101SMP/2018.25.2.82)\]
 
-* Hae-Jeong Park, Karl J Friston, Chongwon Pae, **Bumhee Park**, Adeel Razi. Dynamic effective connectivity in resting state fMRI. _Neuroimage_, 2019, 180, 595-608. \[[link](https://www.sciencedirect.com/science/article/pii/S1053811917309606)\]
+* Hae-Jeong Park, Karl J Friston, Chongwon Pae, **Bumhee Park**, Adeel Razi. Dynamic effective connectivity in resting state fMRI. _Neuroimage_, 2018, 180, 595-608. \[[link](https://www.sciencedirect.com/science/article/pii/S1053811917309606)\]
 
-* Kyesam Jung, Karl J Friston, Chongwon Pae, Hanseul H Choi, Sungho Tak, Yoon Kyoung Choi, **Bumhee Park**, Chan-A Park, Chaejoon Cheong, Hae-Jeong Park. Effective connectivity during working memory and resting states: a DCM study. _NeuroImage_, 2019, 169, 485-495. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811917310911)\]
+* Kyesam Jung, Karl J Friston, Chongwon Pae, Hanseul H Choi, Sungho Tak, Yoon Kyoung Choi, **Bumhee Park**, Chan-A Park, Chaejoon Cheong, Hae-Jeong Park. Effective connectivity during working memory and resting states: a DCM study. _NeuroImage_, 2018, 169, 485-495. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811917310911)\]
 
 
 ## &#126; 2017 
