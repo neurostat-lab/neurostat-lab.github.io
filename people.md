@@ -40,7 +40,7 @@ permalink: /people/
 ### Seulgi Lee
 <img src="/images/seulgi.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, MA in Clinical Psychology
-* PhD student (expected to start on March 2021) 
+* PhD student 
 
 ### Heirim Lee
 <img src="/images/heirim.png" style="width: 200px;" class="img-circle avatar;"/><br>
