@@ -46,6 +46,16 @@ permalink: /people/
 <img src="/images/heirim.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, MA in Clinical Psychology
 
+### Seung Yun Choi
+<img src="/images/seungyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
+* Researcher, MA in Clinical Psychology
+
+### Kyung Hee Hong
+<img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
+* Staff
+
+<U> Unit for biostatistical consulting </U>
+ 
 ### Ji Hyun Park
 <img src="/images/jihyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
 * Researcher, MS in Mathematics
@@ -60,15 +70,7 @@ permalink: /people/
 
 ### Jisu Kim
 <img src="/images/jisu.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher, MS in Statistics
-
-### Seung Yun Choi
-<img src="/images/seungyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher, MA in Clinical Psychology
-
-### Kyung Hee Hong
-<img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
-* Staff
+* Researcher in OBS, MS in Statistics
 
 ### Alumni
 * Kyoungsuk Park (Postdoc)
