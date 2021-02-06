@@ -97,7 +97,7 @@ prediction of malignant cerebral edema in ischemic stroke: an observational stud
 * Kyesam Jung, Karl J Friston, Chongwon Pae, Hanseul H Choi, Sungho Tak, Yoon Kyoung Choi, **Bumhee Park**, Chan-A Park, Chaejoon Cheong, Hae-Jeong Park. Effective connectivity during working memory and resting states: a DCM study. _NeuroImage_, 2018, 169, 485-495. \[[link](https://www.sciencedirect.com/science/article/abs/pii/S1053811917310911)\]
 
 
-## &#126; 2017 
+## &#126; 2017 (Before Joining Ajou University)
 
 * Hojin Cho Cho, Chul Hoon Kim, Elizabeth Quattrocki Knight, Hye Won Oh, **Bumhee Park**, Dong Goo Kim, Hae-Jeong Park. Changes in brain metabolic connectivity underlie autistic-like social deficits in a rat model of autism spectrum disorder. _Scientific reports_, 2017, 7(1), 1-16. \[[link](https://www.nature.com/articles/s41598-017-13642-3)\]
 
