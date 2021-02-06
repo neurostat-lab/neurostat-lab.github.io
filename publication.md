@@ -6,9 +6,11 @@ is_contact: true
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2021
-* Do-Yang Park, Gayoung Gu, Jang Gyu Han, **Bumhee Park**, Hyun Jun Kim. Validating respiratory index of auto-titrating positive airway pressure device with polysomnography. _Sleep Breathing Physiology and Disorders_, In press. \[[link](https://link.springer.com/article/10.1007/s11325-020-02278-9)\]  
+* Minjeong Lee, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>*</sup>, Inwhee Park. Epidemiological characteristics of cancers in patients with end-stage kidney disease: a Korean nationwide study. _Scientific Reports_, 2021, _Accepted_. 
 
-* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]  
+* Do-Yang Park, <U>Ji-Su Kim</U>, **Bumhee Park**, Hyun Jun Kim. Risk factors and clinical prediction formula for the evaluation of obstructive sleep apnea in Asian adults. _PLOS ONE_, 2021, Feb 2. \[[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246399)\] 
+
+* Do-Yang Park, Gayoung Gu, Jang Gyu Han, **Bumhee Park**, Hyun Jun Kim. Validating respiratory index of auto-titrating positive airway pressure device with polysomnography. _Sleep Breathing Physiology and Disorders_, 2021, Jan 4. \[[link](https://link.springer.com/article/10.1007/s11325-020-02278-9)\]  
 
 * Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. \[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259)\]
 
@@ -31,6 +33,8 @@ is_contact: true
 prediction of malignant cerebral edema in ischemic stroke: an observational study. _BMC Neurology_, 2020, Sep; 20(354). \[[link](https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-020-01931-w)\]
 
 * Young-Hwan Ahn, <U>Heirim Lee</U><sup>†</sup>, Do Young Kim, Hey Won Lee, Su Jong Yu, Young Youn Cho, Jeong Won Jang, Byoung Kuk Jang, Chang Wook Kim, Hee Yeon Kim, Hana Park, Hyo Jung Cho, **Bumhee Park**, Soon Sun Kim, Jae Youn Cheong. Independent Risk Factors for Hepatocellular Carcinoma Recurrence after Direct-Acting Antiviral Therapy in Patients with Chronic Hepatitis C. _Gut Liver_, 2020, Sep 9. \[[link](http://www.gutnliver.org/journal/view.html?doi=10.5009/gnl20151)\]
+
+* Ja Young Jeon, Soo Jung Kim, Kyoung Hwa Ha, <U>Ji Hyun Park</U>, **Bumhee Park**, Chang-Kwon Oh, Seung Jin Han. Trends in the effects of pre-transplant diabetes on mortality and cardiovascular events after kidney transplantation. _J Diabetes Investig_, 2020, _Accepted_. \[[link](https://onlinelibrary.wiley.com/doi/10.1111/jdi.13397)\]  
 
 * Jae Ho Ha<sup>†</sup>, <U>Eunyoung Lee</U><sup>†</sup>, Dongyun Lee, <U>Yong Hyuk Cho</U>, <U>Heirim Lee</U>, **Bumhee Park**<sup>*</sup>, Sang Joon Son. Suicidal Risk in Depresssed Patients with the Treatment by Antipsychotics and Antidepressant Compared to Antidepressant Monotherapy: A Pilot Study Using Psychiatric Common Data Model. _Journal of Korean Neuropsychiatric Association_, 2020, Aug; 59(3):243-249. \[[link](https://jknpa.org/DOIx.php?id=10.4306/jknpa.2020.59.3.243)\]
 
