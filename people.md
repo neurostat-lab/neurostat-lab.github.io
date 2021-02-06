@@ -48,7 +48,7 @@ permalink: /people/
 
 ### Seung Yun Choi
 <img src="/images/seungyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher, MA in Development and Socialization in Childhood and Adolescence
+* Researcher, MS in Development and Socialization in Childhood and Adolescence
 
 ### Kyung Hee Hong
 <img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
