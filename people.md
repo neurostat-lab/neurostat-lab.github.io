@@ -54,7 +54,7 @@ permalink: /people/
 <img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
 * Adiministration
 
-<U> Unit for biostatistical consulting </U>
+#### <U> Unit for biostatistical consulting </U> ####
  
 ### Ji Hyun Park
 <img src="/images/jihyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
