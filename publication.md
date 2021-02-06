@@ -12,9 +12,9 @@ is_contact: true
 
 * Do-Yang Park, Gayoung Gu, Jang Gyu Han, **Bumhee Park**, Hyun Jun Kim. Validating respiratory index of auto-titrating positive airway pressure device with polysomnography. _Sleep Breathing Physiology and Disorders_, 2021, Jan 4. \[[link](https://link.springer.com/article/10.1007/s11325-020-02278-9)\]  
 
-* Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. \[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259)\]
-
 * Choong-Kyun Noh, <U>Eunyoung Lee</U><sup>†</sup>, Gil Ho Lee, Joon Koo Kang, Sun Gyo Lim, **Bumhee Park**, Jae Bum Park, Sung Jae Shin, Jae Youn Cheong, Jin Hong Kim, Kee Myung Lee. Association of Intensive Endoscopic Screening Burden With Gastric Cancer Detection. _JAMA Network Open_, 2021, Jan 4;4(1):e2032542. \[[link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774705)\]  
+
+* Yoon-Jeong Oh, Yun Jong Lee, <U>Eunyoung Lee</U>, **Bumhee Park**, Jae-Woo Kwon, Jeongwon Heo, Ki Won, Moon. Cancer risk in Korean patients with gout. _Korean Journal of Intern Med_, 2020, _Accepted_. \[[link](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2020.259)\]
 
 ## 2020 
 * Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, <U>Eunyoung Lee</U>, **Bumhee Park**<sup>*</sup>, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, Dec;28(12):1308-1316. \[[link](https://www.sciencedirect.com/science/article/pii/S106474812030498X?via%3Dihub)\]  
