@@ -27,7 +27,7 @@ permalink: /people/
    
 ### Eunyoung A. Lee 
 <img src="/images/eunyoung.png" style="width: 200px;" class="img-circle avatar;"/><br> 
-* PhD student 
+* PhD candidate 
 * Biostatistician 
 * MS in Biostatistics 
 
@@ -52,7 +52,7 @@ permalink: /people/
 
 ### Kyung Hee Hong
 <img class="img-circle avatar" src="/images/kyunghee.png" style="width: 200px;"/><br>
-* Staff
+* Adiministration
 
 <U> Unit for biostatistical consulting </U>
  
@@ -70,7 +70,7 @@ permalink: /people/
 
 ### Jisu Kim
 <img src="/images/jisu.png" style="width: 200px;" class="img-circle avatar;"/><br>
-* Researcher in OBS, MS in Statistics
+* Researcher, MS in Statistics
 
 ### Alumni
 * Kyoungsuk Park (Postdoc)
