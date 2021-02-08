@@ -56,7 +56,7 @@ permalink: /people/
 
 <br>
 
-### <U> Biostatistical Consulting Group </U> ###
+### - <U> Biostatistical Consulting Group </U> - ###
  
 ### Ji Hyun Park
 <img src="/images/jihyun.png" style="width: 200px;" class="img-circle avatar;"/><br>
