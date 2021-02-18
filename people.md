@@ -30,8 +30,6 @@ permalink: /people/
 <img src="/images/eunyoung.png" style="width: 200px;" class="img-circle avatar;"/><br> 
 * PhD candidate
 * Research keywords: biostatistics, network science, machine learning, computational psychiatry, etc
-* Publication record
-   * 7 SCI(E) journals as a 1st author,  14 SCI(E) journals as a co-author, and 2 manuscripts submitted as a 1st author
 * MS in Biostatistics 
 
 ### Yong Hyuk Cho
