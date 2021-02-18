@@ -23,6 +23,7 @@ permalink: /people/
    * IRB committee member (for Biostatistics) at Ajou University Medical Center
    * Statistical Editor/Advisor - Journal of Neurogastroenterology and Motility, Journal of Korean Academy of Child and Adolescent Psychiatry
    * Editorial Board Member - Frontiers in Psychiatry
+   * Publishing committee (on statistics) - The Korean Society of Perinatology
    
    
 ### Eunyoung A. Lee 
