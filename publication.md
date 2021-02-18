@@ -6,7 +6,7 @@ is_contact: true
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2021
-* Minjeong Lee, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>*</sup>, Inwhee Park. Epidemiological characteristics of cancers in patients with end-stage kidney disease: a Korean nationwide study. _Scientific Reports_, 2021, _Accepted_. 
+* Minjeong Lee, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>*</sup>, Inwhee Park. Epidemiological characteristics of cancers in patients with end-stage kidney disease: a Korean nationwide study. _Scientific Reports_, 2021, Feb; 11(3929). \[[link](https://www.nature.com/articles/s41598-021-83164-6)\] 
 
 * Do-Yang Park, <U>Ji-Su Kim</U>, **Bumhee Park**, Hyun Jun Kim. Risk factors and clinical prediction formula for the evaluation of obstructive sleep apnea in Asian adults. _PLOS ONE_, 2021, Feb 2. \[[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246399)\] 
 
