@@ -17,7 +17,7 @@ permalink: /people/
    * Neuroimaging (for modeling human behaviors/mind and disease states)
    * Big Biomedical Data Science
    * Machine Learning / Biostatistics / Network Science
-   * Psychiatric Common Data Model<br>
+   * Psychiatric Common Data Model / Computational Psychiatry <br>
  <br>
  * Academic Services
    * IRB committee member (for Biostatistics) at Ajou University Medical Center
@@ -30,8 +30,8 @@ permalink: /people/
 <img src="/images/eunyoung.png" style="width: 200px;" class="img-circle avatar;"/><br> 
 * PhD candidate
 * Research keywords: biostatistics, network science, machine learning, computational psychiatry, etc
-* Publication description
-   * 7 SCI(E) journals as a 1st author,  14 SCI(E) journals as a co-author, 2 manuscripts submitted as a main author
+* Publication record
+   * 7 SCI(E) journals as a 1st author,  14 SCI(E) journals as a co-author, and 2 manuscripts submitted as a 1st author
 * MS in Biostatistics 
 
 ### Yong Hyuk Cho
