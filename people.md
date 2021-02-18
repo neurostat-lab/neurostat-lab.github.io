@@ -31,7 +31,7 @@ permalink: /people/
 * PhD candidate
 * Research keywords: biostatistics, network science, machine learning, computational psychiatry, etc
 * Publication description
-   * 7 SCI(E) journals as a main author,  14 SCI(E) journals as a co-author, 2 manuscripts submitted as a main author
+   * 7 SCI(E) journals as a 1st author,  14 SCI(E) journals as a co-author, 2 manuscripts submitted as a main author
 * MS in Biostatistics 
 
 ### Yong Hyuk Cho
