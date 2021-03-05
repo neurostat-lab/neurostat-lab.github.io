@@ -14,11 +14,11 @@ permalink: /research/
 
 * Dajung Sung, Bumhee Park, Shin-Young Kim, Bung-Nyun Kim, Subin Park, Kyu-In Jung, Jungjin Kim, Min-Hyeon Park (2020). Structural Alterations in Large-scale Brain networks and their Relationship with Sleep Disturbances in the Adolescent population. Scientific Reports, 10(1), 1-9.
 
-##### Grants
+##### Grants 
 * The National Research Foundation of Korea (NRF), funded by the Korean government (Ministry of Science and ICT) (NRF-2019R1A5A2026045) (2019.6-2026.2)
-* <br>
+<br>
 * Biobank Innovations for chronic Cerebrovascular disease Wth ALZheimer's disease Study (BICWALZS), funded by the Korea Disease Control and Prevention Agency (KDCA) (2021.3-2025.12)
-* <br>
+<br>
 * The mid-career faculty research fund of Ajou University School of Medicine (2020.10 - 2021.9)
 
 ---
