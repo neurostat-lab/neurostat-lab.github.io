@@ -7,8 +7,8 @@ permalink: /people/
 
 <img src="/images/profe.png" style="width: 200px;"/><br>
  * PhD in NeuroImaging (Yonsei University), MS in Statistics (HUFS)
- * Associate Professor of Biomedical Informatics in Ajou University School of Medicine (2021.3-)<br>
- * Professor in charge of biostatistical consulting in Ajou University Hospital (office of biostatistics, OBS) (2018.6-) <br>
+ * Associate Professor of Biomedical Informatics in Ajou University School of Medicine <br>
+ * Professor in charge of biostatistical consulting in Ajou University Hospital (office of biostatistics, OBS) <br>
  * [Google scholar](https://scholar.google.com/citations?hl=ko&user=mBLSN20AAAAJ)
  * Email: [bhpark@ajou.ac.kr](bhpark@ajou.ac.kr)<br>
  * Office: +82-31-219-4458<br>
