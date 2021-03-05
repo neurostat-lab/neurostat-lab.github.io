@@ -5,11 +5,13 @@ permalink: /contact/
 
 
 
-Positions available : graduate students / researchers
+#### Positions available : graduate students / researchers
 
 * If you are interested in our studies, please send a brief research statement (< 1 page) and CV by email to Prof. Park. 
 * Please feel free to contact me for more information.
 <br>
+
+----
 
 Department of Biomedical Informatics, Ajou University School of Medicine <br>
 206 World cup-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Korea
