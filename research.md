@@ -14,7 +14,7 @@ permalink: /research/
 
 * Dajung Sung, Bumhee Park, Shin-Young Kim, Bung-Nyun Kim, Subin Park, Kyu-In Jung, Jungjin Kim, Min-Hyeon Park (2020). Structural Alterations in Large-scale Brain networks and their Relationship with Sleep Disturbances in the Adolescent population. Scientific Reports, 10(1), 1-9.
 
-##### Grants 
+##### Related Grants 
 * The National Research Foundation of Korea (NRF), funded by the Korean government (Ministry of Science and ICT) (NRF-2019R1A5A2026045) (2019.6-2026.2)
 <br>
 * Biobank Innovations for chronic Cerebrovascular disease Wth ALZheimer's disease Study (BICWALZS), funded by the Korea Disease Control and Prevention Agency (KDCA) (2021.3-2025.12)
@@ -41,7 +41,7 @@ permalink: /research/
 * Bumhee Park, Dae-Shik Kim, Hae-Jeong Park (2014). Graph independent component analysis reveals repertoires of intrinsic network components in the human brain. PloS one, 9(1), e82873.
 <br>
 
-##### Grants
+##### Related Grants
 * The National Research Foundation of Korea (NRF), funded by the Korean government (Ministry of Science and ICT) (NRF-2019R1A5A2026045) (2019.6-2026.2)
 <br>
 * The mid-career faculty research fund of Ajou University School of Medicine (2020.10 - 2021.9)
@@ -57,6 +57,6 @@ permalink: /research/
 * Dongyun Lee, Jaehyeong Cho, Seng Chan, You, Rae Woong Park, Chungsoo Kim, Eunyoung Lee, Bumhee Park, Sang-Joon Son. Risk of mortality in elderly COVID-19 patients with mental health disorders: a nationwide retrospective study in South Korea. _American Journal of Geriatric Psychiatry_, 2020, _Accepted_.
 <br>
 
-##### Grants
-* The Korean Health Industry Development Institute (KHIDI) , funded by the Ministry of Health & Welfare, Republic of Korea (HI19C0094) (2019-2021)
+##### Related Grants
+* The Korean Health Industry Development Institute (KHIDI) , funded by the Ministry of Health & Welfare, Republic of Korea (HI19C0094) (2019.4-2021.12)
 <br>
