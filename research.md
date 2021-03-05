@@ -18,6 +18,7 @@ permalink: /research/
 * The National Research Foundation of Korea (NRF), funded by the Korean government (Ministry of Science and ICT) (NRF-2019R1A5A2026045) (2019.6-2026.2)
 * Biobank Innovations for chronic Cerebrovascular disease Wth ALZheimer's disease Study (BICWALZS), funded by the Korea Disease Control and Prevention Agency (KDCA) (2021.3-2025.12)
 * The mid-career faculty research fund of Ajou University School of Medicine (2020.10 - 2021.9)
+
 ---
 
 #### <center>Network Modeling of Psychiatry, Psychological and Biomedical data</center>
