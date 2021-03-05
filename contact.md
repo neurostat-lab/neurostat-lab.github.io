@@ -7,7 +7,7 @@ permalink: /contact/
 
 #### Positions available : graduate students / researchers
 
-* If you are interested in our studies, please send a brief research statement (< 1 page) and CV by email to Prof. Park. 
+* If you are interested in our studies, please send a brief research statement (< 1 page) and CV to Prof. Park (by email). 
 * Please feel free to contact me for more information.
 <br>
 
