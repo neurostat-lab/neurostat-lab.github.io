@@ -3,6 +3,14 @@ layout: default
 permalink: /contact/
 ---
 
+
+
+Positions available : graduate students / researchers
+
+* If you are interested in our studies, please send brief research statement and CV by email to me (bhpark@ajou.ac.kr).
+* Please feel free to contact me for more information.
+<br>
+
 Department of Biomedical Informatics, Ajou University School of Medicine <br>
 206 World cup-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Korea
 
