@@ -7,7 +7,7 @@ permalink: /contact/
 
 Positions available : graduate students / researchers
 
-* If you are interested in our studies, please send brief research statement and CV by email to me (bhpark@ajou.ac.kr).
+* If you are interested in our studies, please send brief research statement and CV by email.
 * Please feel free to contact me for more information.
 <br>
 
