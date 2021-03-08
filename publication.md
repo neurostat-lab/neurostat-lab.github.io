@@ -6,6 +6,10 @@ is_contact: true
 <center> Denoted for lab members (<U>underline</U>) only: <sup>†</sup>: co-first author, <sup>*</sup>: corresponding author  </center>
 
 ## 2021
+* Byung Jin Choi, Yeryung Koo, Tae Young Kim, Wou Young Chung, Yun Jung Jung, Ji Eun Park, Hong-Seok Lim, **Bumhee Park**<sup>*</sup>, Dukyong Yoon. Risk of QT Prolongation through Drug Interactions between Hydroxychloroquine and Concomitant Drugs Prescribed in Real World Practice. _Scientific Reports_, _Accepted_. 
+
+* Sang Kyum Kim, Jang-Hee Kim, Jae Ho Han, Nam Hoon Cho, Se Joong Kim, Sun Il Kim, Seol Ho Choo, <U>Ji Su Kim</U>, **Bumhee Park**, Ji Eun Kwon. TERT promoter mutations in penile squamous cell carcinoma: high frequency in non‐HPV‐related type and association with favorable clinicopathologic features. _Journal of Cancer Research and Clinical Oncology_, 2021, Feb; 26. \[[link](https://link.springer.com/article/10.1007/s00432-021-03514-9)\] 
+ 
 * Minjeong Lee, <U>Eunyoung Lee</U><sup>†</sup>, **Bumhee Park**<sup>*</sup>, Inwhee Park. Epidemiological characteristics of cancers in patients with end-stage kidney disease: a Korean nationwide study. _Scientific Reports_, 2021, Feb; 11(3929). \[[link](https://www.nature.com/articles/s41598-021-83164-6)\] 
 
 * Do-Yang Park, <U>Ji-Su Kim</U>, **Bumhee Park**, Hyun Jun Kim. Risk factors and clinical prediction formula for the evaluation of obstructive sleep apnea in Asian adults. _PLOS ONE_, 2021, Feb 2. \[[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246399)\] 
